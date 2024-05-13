@@ -29,6 +29,7 @@
   text-align: left;
   padding: 1.5rem 2rem;
   background-color: var(--grey-color);
+  color: white;
 }
 
 .add-task-btn {
